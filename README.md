@@ -25,4 +25,4 @@ Running the sample
 
 $ ./sample-run.sh
 
-Updated 2
+Updated 3
